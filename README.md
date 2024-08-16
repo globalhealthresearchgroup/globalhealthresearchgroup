@@ -14,10 +14,9 @@
 
 </div>
 
-# Awesome Jekyll Theme 🎉
+# GLOBAL HEALTH RESEARCH GROUP 🎉
 
-A clean, versatile Jekyll theme with minimalist design and robust features.
-Ideal for portfolios, blogs, and project showcases with responsive layouts and easy customization.
+Global Health Research Group is an international humanitarian and charitable organization headquartered in Saint Louis, Missouri, that provides children and their families with a healthy start in life, breaks the cycle of poverty, and offers emergency assistance.
 
 ## ScreenShots
 
